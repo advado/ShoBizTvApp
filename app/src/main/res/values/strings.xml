@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShoBiz</string>
+    <string name="videos_list_title">Videos &amp; more</string>
+    <string name="homepage">Homepage</string>
+    <string name="banner_title">Watch ShoBiz TV Live</string>
+    <string name="banner_description">Welcome to ShoBiz TV Live Android TV. Enjoy unlimited entertainment and good music videos across the world.</string>
+    <string name="settings_title">Settings</string>
+    <string name="about_title">About</string>
+    <string name="about_description">Learn more about ShoBiz TV Android Live.</string>
+    <string name="help_title">Help and feedback</string>
+    <string name="help_description">Contact us when you are facing issues on our app</string>
+    <string name="update_title">System update</string>
+    <string name="update_description">Check system update for latest updates.</string>
+    <string name="privacy_title">Privacy</string>
+    <string name="privacy_description">Learn more about ShoBiz Android Live TV privacy policy</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="lb_browse_header_text_size">20sp</dimen>
+    <dimen name="settings_title">16sp</dimen>
+    <dimen name="settings_description">12sp</dimen>
+    <dimen name="settings_icon">28dp</dimen>
+    <dimen name="settings_vertical_padding">6dp</dimen>
+
+</resources>
